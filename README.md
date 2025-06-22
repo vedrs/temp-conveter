@@ -25,3 +25,27 @@ This is a simple **Temperature Converter** built using HTML, CSS, and JavaScript
 
 ## 📂 Project Structure
 
+temperature conveter/
+│
+├── index.html # Main HTML structure
+├── style.css # Styles for the UI
+└── script.js # JavaScript for conversion logic
+
+
+---
+
+## 🔧 How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/vedrs/temp-conveter.git
+cd temp-conveter/temperature\ conveter
+## 📸 Demo
+Live demo will be available soon via Netlify or GitHub Pages.
+##👨‍💻 Author
+Made with ❤️ by Vedant Sawaleshwarkar
+
+---
+
+Let me know if you want the `README.md` file as a downloadable `.md` file or want me to add a live demo link once hosted.
