@@ -47,6 +47,8 @@ cd temp-conveter/temperature\ conveter
 
 ## 📸 Demo
 Live demo will be available soon via Netlify or GitHub Pages.
+---
+
 ##👨‍💻 Author
 Made with ❤️ by Vedant Sawaleshwarkar
 
