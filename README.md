@@ -55,27 +55,6 @@ To use this project locally:
 
 ---
 
-## 🌐 Live Demo
-
-Live preview will be available soon (hosted via Netlify or GitHub Pages).
-
----
-
-## 📷 Screenshot
-
-![Preview](https://raw.githubusercontent.com/vedrs/temp-conveter/main/temperature%20conveter/screenshot.png)
-*Replace this with an actual screenshot path if available.*
-
----
-
-## 🙌 Contributing
-
-Contributions are welcome! If you have suggestions or improvements:
-- Fork the repository
-- Create a new branch
-- Commit your changes
-- Submit a pull request
-
 ---
 
 ## 📄 License
