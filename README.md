@@ -27,9 +27,9 @@ This is a simple **Temperature Converter** built using HTML, CSS, and JavaScript
 
 temperature conveter/
 │
-├── index.html # Main HTML structure
-├── style.css # Styles for the UI
-└── script.js # JavaScript for conversion logic
+─ index.html # Main HTML structure
+─ style.css # Styles for the UI
+─ script.js # JavaScript for conversion logic
 
 
 ---
